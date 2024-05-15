@@ -11,6 +11,8 @@ Contoh Sintaks:
 Output:
 <h1>Contoh heading</h1>
 
+<br/>
+<br/>
 NOTE: Elemen ini dimulai dari h1, h2, h3, ..., h6. yang menjadi pembeda hanyalah ketebalannya seperti contoh
 
 <h1>Ini adalah h1</h1>
