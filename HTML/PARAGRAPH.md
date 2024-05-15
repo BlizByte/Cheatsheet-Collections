@@ -3,7 +3,7 @@
 
 
 Contoh Sintaks:
-html'''<p> Contoh paragraf </p>'''
+html```<p> Contoh paragraf </p>```
 
 Output:
 <p>Contoh paragraf</p>
