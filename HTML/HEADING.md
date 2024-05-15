@@ -4,7 +4,7 @@
 
 Contoh Sintaks:
 <br/>
-html```<h1> Contoh heading </h1>```
+```html<h1> Contoh heading </h1>```
 
 Output:
 <h1>Contoh heading</h1>
