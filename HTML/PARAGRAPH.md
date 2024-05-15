@@ -4,7 +4,9 @@
 
 Contoh Sintaks:
 <br/>
-```html<p> Contoh paragraf </p>```
+```html
+<p> Contoh paragraf </p>
+```
 
 <br/>
 Output:
